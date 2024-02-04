@@ -1,0 +1,2 @@
+# comparison
+comparision in js
